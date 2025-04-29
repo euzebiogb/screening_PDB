@@ -29,7 +29,7 @@ Este script principal depende de vários scripts Python auxiliares que devem est
 
 * `sphere_count.py`: Calcula o descritor "sphere count" para uma molécula em formato SDF.
 * `get_s_count.py`: Gera uma lista de IDs de moléculas com base em um valor de "sphere count".
-* Need files with counts: https://drive.google.com/file/d/1Q5FZtHcakJAa8LbA6wX-EuyKks52n--d/view?usp=drive_link
+* Need file with counts: https://drive.google.com/file/d/1Q5FZtHcakJAa8LbA6wX-EuyKks52n--d/view?usp=drive_link
 * `filter_sdf.py`: Filtra um arquivo SDF principal com base em uma lista de IDs fornecida.
 
 ### Arquivos de Dados
